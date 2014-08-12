@@ -1,0 +1,3 @@
+APPLICATION_NAME=Login Rules
+EXECUTABLE=Login Rules.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Login Rules/manifest.xml
